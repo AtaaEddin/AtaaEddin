@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AtaaEddin
-- 👀 I’m interested in AI and Embedded Systems
-- 🌱 I’m currently learning Rust
+- 👀 I’m interested in AI and web applications
+- 🌱 I’m currently learning langchain/typescript
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me? send me to my linkedin https://www.linkedin.com/in/ata-aldaghstani-39504917b/
 
