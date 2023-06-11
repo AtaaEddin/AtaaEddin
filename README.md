@@ -2,7 +2,7 @@
 - 👀 If you're interseted in web development and LLM(Large Languauge Models), you can check my [youtube](https://www.youtube.com/channel/UCdhQURct4qMkrP3kRJukR-Q) channel
 - 🌱 I’m currently working on website auto generator using LLM
 - 💞️ I’m looking to collaborate on fun projects
-- 📫 How to reach me? send me to my [linkedin](https://www.linkedin.com/in/ataaeddin-aldaghstani-39504917b/)
+- 📫 How to reach me? send me to my [linkedin](https://www.linkedin.com/in/ataaeddin-aldaghstani-39504917b/) or [Twiter](https://twitter.com/AtaDaghstani) 
 
 <!---
 AtaaEddin/AtaaEddin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
