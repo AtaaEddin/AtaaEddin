@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Ataa, I work on [upwork](https://www.upwork.com/freelancers/~017dd4beb052466560) as freelancer 
+- 👋 Hi, I’m Ataa, I work on [upwork](https://www.upwork.com/freelancers/~017dd4beb052466560) as freelancer
+- Personal website https://ataadevs.net/
 - 👀 I'm interseted in web development and LLM(Large Languauge Models),
 - Follow me on [Twiter](https://twitter.com/AtaDaghstani) 
 - 🌱 I’m currently working on website auto generator using LLM
